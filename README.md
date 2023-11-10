@@ -3,6 +3,7 @@
 ## About Me
 
 With over 16 years of experience, I am a seasoned professional specializing in leading and executing large-scale software development projects. My expertise extends to defining and implementing technical solutions, managing complex projects, and collaborating effectively with stakeholders at all levels. 
+[![Rajiv's github stats](https://github-readme-stats.vercel.app/api?username=rajiv-njit)](https://github.com/rajiv-njit/github-readme-stats)
 
 ### Key Skills
 - **Programming Languages:** Java, SQL
