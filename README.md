@@ -1,3 +1,5 @@
+![Software Consultant](https://github.com/rajiv-njit/rajiv-njit/blob/main/Rajiv%20Profile%20LinkedIn%20Banner.png)
+
 # Welcome to My GitHub Profile 👋
 
 ## About Me
