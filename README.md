@@ -25,6 +25,9 @@ Seasoned technical architect with expertise in AWS and Azure cloud computing. Pr
 ### Cloud Migration
 Expert in migrating on-premise applications to the cloud, with a portfolio of 30+ successful migrations. 
 
+## Examples of Work
+<img src=".gif" width ="256" />
+
 ## Let's Connect!
 
 I'm passionate about technology, collaboration, and driving successful outcomes. Let's connect and explore how we can work together on exciting projects. Feel free to reach out for discussions, collaborations, or just to share ideas!
