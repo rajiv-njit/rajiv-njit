@@ -15,9 +15,6 @@ With over 16 years of experience, I am a seasoned professional specializing in l
 ### Java Development
 Experienced Java developer with in-depth knowledge of the Spring Framework, Hibernate, Java EE, SQL, JDBC, and MVC. Proven track record of designing, developing, and deploying high-quality, scalable, and reliable software.
 
-### Project/Program Management
-PMP and CSP certified project/program manager with a successful track record of delivering complex projects on time and within budget. Strong communication, leadership, and problem-solving skills.
-
 ### Technical Architecture
 Seasoned technical architect with expertise in AWS and Azure cloud computing. Proficient in translating business requirements into technical specifications and deliverables.
 
