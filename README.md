@@ -9,7 +9,7 @@ With over 16 years of experience, I am a seasoned professional specializing in l
 [![Rajiv's github stats](https://github-readme-stats.vercel.app/api?username=rajiv-njit)](https://github.com/rajiv-njit/github-readme-stats)
 
 ### Key Skills
-- **Programming Languages:** Java, SQL
+- **Programming Languages:** Java, Python, SQL
 - **Frameworks:** Spring Framework, Hibernate, Java EE
 - **Cloud Platforms:** AWS, Azure
 - **Certifications:** PMP (Project Management Professional), CSP (Certified Scrum Professional)
