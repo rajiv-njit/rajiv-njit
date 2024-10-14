@@ -32,4 +32,4 @@ Expert in migrating on-premise applications to the cloud, with a portfolio of 30
 
 I'm passionate about technology, collaboration, and driving successful outcomes. Let's connect and explore how we can work together on exciting projects. Feel free to reach out for discussions, collaborations, or just to share ideas!
 
-[LinkedIn](https://www.linkedin.com/in/rajivnjit/) | 
+[LinkedIn](https://www.linkedin.com/in/rkumarms/) | 
