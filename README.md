@@ -12,7 +12,13 @@ With over 17 years of experience, I am a seasoned professional specializing in l
 - **Programming Languages:** Java, Python, SQL
 - **Frameworks:** Spring Framework, Hibernate, Java EE
 - **Cloud Platforms:** AWS, Azure
-- **Certifications:** PMP (Project Management Professional), CSP (Certified Scrum Professional)
+- **Certifications:**
+- AWS Certified Solutions Architect - Professional
+- Oracle Certified Practitioner, Java SE Programmer
+- Oracle Certified Associate, Java SE Programmer
+- AWS Certified Solutions Architect- Associate
+- Microsoft Certified Azure Fundamentals
+- Artificial Intelligence and Deep Learning Certification, IIT, Roorkee
 
 ## Specialties
 
