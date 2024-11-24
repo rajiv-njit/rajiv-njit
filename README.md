@@ -4,7 +4,7 @@
 
 ## About Me
 
-With over 17 years of experience, I am a seasoned professional specializing in leading and executing large-scale software development projects. My expertise extends to defining and implementing technical solutions, managing complex projects, and collaborating effectively with stakeholders at all levels. 
+15+ years of experience overseeing large-scale projects in Java and cloud computing, specializing in AWS and Azure. Demonstrated expertise in architecting and implementing modern web applications utilizing Angular, Node.js, and microservices architectures. Proven ability to lead and manage cross-functional teams in driving digital transformations, cloud migrations, and application modernization initiatives, while delivering scalable and high-performance solutions. 
 
 [![Rajiv's github stats](https://github-readme-stats.vercel.app/api?username=rajiv-njit)](https://github.com/rajiv-njit/github-readme-stats)
 
