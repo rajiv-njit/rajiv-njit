@@ -23,15 +23,15 @@ Over 15 years of experience leading enterprise-scale digital transformation and 
 
 ### Specialties
 
-- **Java & Microservices Development
+- **Java & Microservices Development**
 
 Experienced Java architect with deep expertise in Spring Boot, Spring Cloud, Hibernate, and RESTful microservices. Proven ability to design and build scalable, secure, and high-performance enterprise applications leveraging Java 21, JPA, and modern CI/CD pipelines.
 
-- **Enterprise & Solution Architecture
+- **Enterprise & Solution Architecture**
 
 Seasoned solution architect skilled in designing cloud-native, event-driven, and service-mesh-based architectures across AWS and Azure. Strong background in API modernization, observability, and data strategy, translating complex business requirements into robust, production-ready solutions.
 
-- **Cloud Migration & Modernization
+- **Cloud Migration & Modernization**
 
 Led multiple large-scale on-prem to cloud transformations (30+ migrations) involving AWS (EC2, S3, EMR, Lambda) and Azure services. Experienced in defining migration blueprints, re-platforming strategies, and cloud governance models that ensure scalability, security, and cost efficiency.
 
