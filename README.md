@@ -8,7 +8,7 @@
 
 Over 15 years of experience leading enterprise-scale digital transformation and cloud modernization programs across Java, Spring Boot, and AWS ecosystems. Specialized in architecting microservices, event-driven systems, and data platforms with a strong focus on scalability, observability, and performance. Proven success driving cross-functional teams through API modernization, service mesh adoption, and large-scale migrations to AWS and Azure. Recognized for delivering resilient, production-grade architectures that align technology strategy with business goals.
 
-[![Rajiv's github stats](https://github-readme-stats.vercel.app/api?username=rajiv-njit)](https://github.com/rajiv-njit/github-readme-stats)
+[![Rajiv's github stats](https://github-readme-stats.vercel.app/api?username=rajiv-njit&cache_seconds=1800)](https://github.com/rajiv-njit/github-readme-stats)
 
 ### Key Skills
 - **Programming Languages:** Java, Python, SQL
